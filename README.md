@@ -7,7 +7,7 @@ STEP 1:
 Input a message from the user.
 
 STEP 2:
-Use a basic custom hash function that applies simple operations like XOR and addition on the characters of the message.
+Use a basic custom hash function that applies simple operations like XOR and addition on the characters of the message.   
 
 STEP 3:
 Convert the resulting hash into a hexadecimal format.
